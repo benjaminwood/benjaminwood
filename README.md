@@ -1,4 +1,4 @@
-<img align="right" width=450px src="https://github.com/benjaminwood/benjaminwood/blob/master/ben-typing.svg?raw=true" onerror="this.src='https://github.com/benjaminwood/benjaminwood/blob/master/ben-typing.png?raw=true'">
+<img align="right" width=450px src="https://github.com/benjaminwood/benjaminwood/blob/master/ben-typing-v2.svg?raw=true" onerror="this.src='https://github.com/benjaminwood/benjaminwood/blob/master/ben-typing-v2.png?raw=true'">
 
 ### Hi, I'm Ben 👋
 
