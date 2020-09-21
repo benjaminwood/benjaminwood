@@ -2,7 +2,7 @@
 
 ### Hi, I'm Ben 👋
 
-I'm a family man, software developer, and co-founder of [hint.io](https://hint.io) & [upgraderails.com](https://upgraderails.com). I love solving hard problems and digging into nitty-gritty details. I'm most proficient with Ruby, and have a lot of experience with Ruby on Rails. I'm also a huge Linux nerd :nerd_face:.
+I'm a family man, software developer, and co-founder of [hint.io](https://hint.io) & [upgraderails.com](https://upgraderails.com). I love solving hard problems and digging into nitty-gritty details. I'm most proficient with Ruby and have a lot of experience with Ruby on Rails. I'm also a huge Linux nerd :nerd_face:.
 
 ## Find me around the web 🌎:
 
