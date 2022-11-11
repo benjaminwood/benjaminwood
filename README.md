@@ -1,4 +1,4 @@
-<img align="right" width=450px src="https://github.com/benjaminwood/benjaminwood/blob/master/octocat.png?raw=true">
+<img align="right" width=350px src="https://github.com/benjaminwood/benjaminwood/blob/master/octocat.png?raw=true">
 
 ### Hi, I'm Ben 👋
 
