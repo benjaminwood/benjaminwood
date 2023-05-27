@@ -2,7 +2,7 @@
 
 ### Hi, I'm Ben 👋
 
-I'm a family man, software developer, and co-founder of [hint.io](https://hint.io) & [upgraderails.com](https://upgraderails.com). I love solving hard problems and digging into nitty-gritty details. I'm most proficient with Ruby and have a lot of experience with Ruby on Rails. I'm also a huge Linux nerd :nerd_face:.
+Based in Vancouver, WA, I balance a rich family life with a passion for software development. After spending more than a decade consulting at Hint, a company I had the privilege to co-found, I've learned quite a bit about the challenges that dev teams face. Today, I'm channeling these insights into [selective.ci](https://selective.ci), a dev tool aimed to level-up CI.
 
 ## Find me around the web 🌎:
 
