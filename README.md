@@ -9,3 +9,4 @@ Based in Vancouver, WA, I balance a rich family life with a passion for software
 - :bird: [benjaminwood](https://twitter.com/benjaminwood "@benjaminwood on Twitter") on Twitter
 - :key: [benjaminwood](https://keybase.io/benjaminwood "benjaminwood on Keybase") on Keybase
 - :technologist: [benjaminwood](https://dev.to/benjaminwood "benjaminwood on Dev.to") on Dev.to
+- :business_suit_levitating: [benrwood](https://www.linkedin.com/in/benrwood "benrwood on LinkedIn") on LinkedIn
